@@ -43,6 +43,7 @@ public static void decrypt()
 		sentence = sentence.replace("678", "x");
 		sentence = sentence.replace("097", "y");
 		sentence = sentence.replace("990", "z");
+		// that's pretty neat
 		System.out.println(sentence);
 	}
 }
